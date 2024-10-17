@@ -1,2 +1,4 @@
-package src.Lambda;class LocalClass {
+package src.lambda;
+
+class LocalClass {
 }
